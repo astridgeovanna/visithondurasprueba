@@ -1,0 +1,5 @@
+.hero { background-image: linear-gradient(180deg, #5da4fa, #04389f); }
+.card-img-top, .object-cover { object-fit: cover; height: 180px; }
+@media (min-width: 992px){
+  .card-img-top, .object-cover { height: 220px; }
+}
